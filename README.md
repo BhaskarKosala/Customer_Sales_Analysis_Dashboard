@@ -5,6 +5,7 @@
 This project presents an interactive Power BI dashboard built to analyze customer sales, product performance, and category trends throughout the country. The dashboard is designed to empower business users and stakeholders with actionable insights through rich visualizations and AI-powered analytics.
 
 **🔧 Features & Capabilities**
+
 Data Modeling & Transformation: Structured raw sales data using Power Query and DAX, ensuring clean relationships and optimal performance.
 
 Advanced Visual Analytics:
